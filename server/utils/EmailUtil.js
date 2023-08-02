@@ -2,10 +2,12 @@
 const nodemailer = require('nodemailer');
 const MyConstants = require('./MyConstants');
 const transporter = nodemailer.createTransport({
-  service: 'gmail',
+  host: 'smtp.office365.com', // Thay đổi host thành máy chủ SMTP của Hotmail
+  port: 587, // Thay đổi cổng thành cổng của Hotmail (587)
+  secure: false, // Sử dụng STARTTLS nên không cần secure
   auth: {
-    user: MyConstants.EMAIL_USER,
-    pass: MyConstants.EMAIL_PASS
+    user: MyConstants.EMAIL_USER, // Thay đổi tên người dùng thành địa chỉ email Hotmail của bạn
+    pass: MyConstants.EMAIL_PASS // Thay đổi mật khẩu thành mật khẩu email Hotmail của bạn
   }
 });
 const EmailUtil = {

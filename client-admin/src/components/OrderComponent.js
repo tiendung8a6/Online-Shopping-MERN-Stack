@@ -114,7 +114,7 @@ class Order extends Component {
       if (result) {
         this.apiGetOrders();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }

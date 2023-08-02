@@ -6,7 +6,7 @@ class Signup extends Component {
     super(props);
     this.state = {
       txtUsername: 'tiendung',
-      txtPassword: '123',
+      txtPassword: '123456',
       txtName: 'TienDung',
       txtPhone: '0985872885',
       txtEmail: 'tiendung8a6@gmail.com'

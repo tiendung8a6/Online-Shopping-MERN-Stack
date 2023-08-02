@@ -142,10 +142,10 @@ class ProductDetail extends Component {
     axios.post('/api/admin/products', prod, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetProducts();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }
@@ -154,10 +154,10 @@ class ProductDetail extends Component {
     axios.put('/api/admin/products/' + id, prod, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetProducts();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }
@@ -166,10 +166,10 @@ class ProductDetail extends Component {
     axios.delete('/api/admin/products/' + id, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetProducts();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }

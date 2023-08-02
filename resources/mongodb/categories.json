@@ -1,0 +1,16 @@
+[{
+    "_id": {
+      "$oid": "6288b164708fabf8ab29ca0a"
+    },
+    "name": "iPad"
+  },{
+    "_id": {
+      "$oid": "6288b174708fabf8ab29ca0d"
+    },
+    "name": "iPhone"
+  },{
+    "_id": {
+      "$oid": "6288b180708fabf8ab29ca10"
+    },
+    "name": "Macbook"
+  }]

@@ -84,10 +84,10 @@ class CategoryDetail extends Component {
     axios.post('/api/admin/categories', cate, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetCategories();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }
@@ -96,10 +96,10 @@ class CategoryDetail extends Component {
     axios.put('/api/admin/categories/' + id, cate, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetCategories();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }
@@ -108,10 +108,10 @@ class CategoryDetail extends Component {
     axios.delete('/api/admin/categories/' + id, config).then((res) => {
       const result = res.data;
       if (result) {
-        alert('OK BABY!');
+        alert('Good job!');
         this.apiGetCategories();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }

@@ -159,7 +159,7 @@ class Customer extends Component {
       if (result) {
         this.apiGetCustomers();
       } else {
-        alert('SORRY BABY!');
+        alert('Error! An error occurred. Please try again later.');
       }
     });
   }

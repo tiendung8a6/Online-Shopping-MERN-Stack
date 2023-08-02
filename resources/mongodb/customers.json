@@ -1,0 +1,24 @@
+[{
+    "_id": {
+      "$oid": "64ca21eb850d6136953f8337"
+    },
+    "username": "tiendung",
+    "password": "123456",
+    "name": "TienDung",
+    "phone": "0985872885",
+    "email": "tiendung8a6@gmail.com",
+    "active": 1,
+    "token": "b0533956c280059ffd46a6968f0472ae"
+  },
+  {
+    "_id": {
+      "$oid": "64ca234f850d6136953f833c"
+    },
+    "username": "tiendung_account2",
+    "password": "123456",
+    "name": "TienDung_account2",
+    "phone": "0985872885",
+    "email": "ngotdung2002@gmail.com",
+    "active": 0,
+    "token": "ef1cf711f592b724bcfedef9e7dd04bd"
+  }]
