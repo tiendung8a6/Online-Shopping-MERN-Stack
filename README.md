@@ -31,27 +31,22 @@ The main objective of the Online Shopping project is to create a web application
 
 If you want to run this project on your computer, follow these steps:
 
-
 #### 1. Clone the repository from GitHub:
 
 ```bash
 git clone https://github.com/tiendung8a6/Online-Shopping-MERN-Stack.git
 ```
 #### 2. Install dependencies:
-
+```bash
+cd server
+npm install
+```
 ```bash
 cd client-admin
 npm install
 ```
-
 ```bash
 cd client-customer
-npm install
-
-```
-
-```bash
-cd server
 npm install
 ```
 #### 3. Configure the MongoDB database: 
@@ -59,21 +54,17 @@ Ensure you have MongoDB installed and running on your computer, and update the c
 
 #### 4. Run the application:
 ```bash
-cd client-admin
-npm start
-```
-
-```bash
-cd client-customer
-npm start
-
-```
-
-```bash
 cd server
 npm start
 ```
-
+```bash
+cd client-admin
+npm start
+```
+```bash
+cd client-customer
+npm start
+```
 ## Directory Structure
 
 The project directory includes the following folders:
@@ -103,3 +94,6 @@ After accessing the website, you can register, log in, view the product list, ad
 - **Name**: Ngo Tien Dung
 - **Contact**: tiendung8a6@gmail.com
 - **Phone**: +84 985872885
+
+---
+[![](https://visitcount.itsvg.in/api?id=tiendung8a6&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
