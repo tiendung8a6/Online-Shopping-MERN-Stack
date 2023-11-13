@@ -94,6 +94,3 @@ After accessing the website, you can register, log in, view the product list, ad
 - **Name**: Ngo Tien Dung
 - **Contact**: tiendung8a6@gmail.com
 - **Phone**: +84 985872885
-
----
-[![](https://visitcount.itsvg.in/api?id=tiendung8a6&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
