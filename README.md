@@ -88,7 +88,18 @@ After accessing the website, you can register, log in, view the product list, ad
 + **Package and Tool Management**: npm, Git
 
 ## References
-+ [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://drive.google.com/file/d/1jHtj0QknhbtrVoQifMZnCUCnO66GnbjK/view?usp=sharing)
+
++ [Lab-01.pdf](https://drive.google.com/file/d/1D6JsGJ97Z4orF8oZet4JBQ4NJZWZTs0B/view?usp=sharing)
++ [Lab-02.pdf](https://drive.google.com/file/d/1NqOYNc0meQyOAIyL0hnFiGrEH-Uw5S_d/view?usp=sharing)
++ [Lab-03.pdf](https://drive.google.com/file/d/1pEDyCfB1XLRcvosGFzSnbFm_G245UoU0/view?usp=sharing)
++ [Lab-04.pdf](https://drive.google.com/file/d/1PIeC8OYLWIj3tXVxCkSQkfi-h4p24DMh/view?usp=sharing)
++ [Lab-05.pdf](https://drive.google.com/file/d/1PzYW9zkeuNeyDoZkVOYHiUnGmdLNKb_V/view?usp=sharing)
++ [Lab-06.pdf](https://drive.google.com/file/d/1Nj_fXcGgIp9fOQDu-hrPX44BOmy8309b/view?usp=sharing)
++ [Lab-07.pdf](https://drive.google.com/file/d/1vtQ_BYIev6a89jPs4egksBCjKZ5U9VdP/view?usp=sharing)
++ [Lab-08.pdf](https://drive.google.com/file/d/1DcL7ozWP1lkBxXXacHiUl0wvh2aoXJnF/view?usp=sharing)
++ [Lab-09.pdf](https://drive.google.com/file/d/11RfLKb_mCW7gvGGWFBqQPfMLz3TUkUSm/view?usp=sharing)
++ [Lab-10.pdf](https://drive.google.com/file/d/1zJO-AY2ALDBPvdI3YR5U-FXPOzhJEDEr/view?usp=sharing)
++ [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node.pdf](https://drive.google.com/file/d/1jHtj0QknhbtrVoQifMZnCUCnO66GnbjK/view?usp=sharing)
 
 ## Author
 - **Name**: Ngo Tien Dung
